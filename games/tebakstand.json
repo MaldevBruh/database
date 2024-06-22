@@ -3,6 +3,60 @@
         "index": 0,
         "img": "https://static.jojowiki.com/images/thumb/8/8e/latest/20191201192747/Star_Platinum_A-GO%21GO%21_cropped.png/200px-Star_Platinum_A-GO%21GO%21_cropped.png",
         "jawaban": "Star Platinum",
-        "deskripsi": "A close-range Stand with exceptional strength and speed, as well as gaining the ability to stop time during the fight against DIO. Its overwhelming power, coupled with Jotaro's fighting prowess, make it one of the strongest and most iconic Stands in the series."
+        "deskripsi": "Stand jarak dekat dengan kekuatan dan kecepatan luar biasa, serta mendapatkan kemampuan untuk menghentikan waktu selama pertarungan melawan Dio. Kekuatannya yang luar biasa, ditambah dengan kecakapan bertarung Jotaro, menjadikannya salah satu Stand terkuat dan paling ikonik di seri ini."
+    },
+    {
+        "index": 1,
+        "img": "https://static.jojowiki.com/images/thumb/4/40/latest/20210725004739/Magician%27s_Red_Appearance.png/190px-Magician%27s_Red_Appearance.png",
+        "jawaban": ["Magician's Red", "Magicians Red", "Magician Red"],
+        "deskripsi": "Sosok humanoid dengan kepala burung meniru model burung phoenix. Ia memiliki tubuh bagian atas yang sangat berotot dan kakinya yang berbulu terkadang tertutup api yang membara. Lengannya memiliki cakar, bukan paku, dan memakai gelang berwarna gelap di kedua pergelangan tangannya. Stand awalnya bertelanjang kaki, tetapi setelah Avdol kembali, ia memakai sepatu Arab."
+    },
+    {
+        "index": 2,
+        "img": "https://static.jojowiki.com/images/thumb/2/25/latest/20210531215815/Hermit_Purple_Appearance.png/180px-Hermit_Purple_Appearance.png",
+        "jawaban": "Hermit Purple",
+        "deskripsi": "Memanifestasikan dirinya sebagai banyak tanaman merambat berwarna ungu, yang ditutupi duri yang muncul dari tangan Yusuf. Tanaman merambat tersebut cukup kuat untuk menopang berat badannya sendiri dan cukup panjang untuk mengikat seseorang sepenuhnya."
+    },
+    {
+        "index": 3,
+        "img": "https://static.jojowiki.com/images/thumb/e/e9/latest/20210616194724/Hierophant_Green_Appearance.png/160px-Hierophant_Green_Appearance.png",
+        "jawaban": "Hierophant Green",
+        "deskripsi": "Stand humanoid bertubuh rata-rata yang dibalut beberapa armor berwarna terang di sekujur tubuhnya dengan sebagian besar tubuhnya masih terbuka. Armornya mencakup topeng yang bisa dipatahkan hingga memperlihatkan mulutnya. Beberapa sendi Hierophant Green bersifat mekanis, begitu pula matanya. Tubuhnya berwarna hijau dan ditutupi pola seperti jaring yang digambarkan Jotaro Kujo mengingatkan pada melon yang mengilap."
+    },
+    {
+        "index": 4,
+        "img": "https://static.jojowiki.com/images/thumb/a/ac/latest/20210707054821/SilverChariot5Appearance.png/210px-SilverChariot5Appearance.png",
+        "jawaban": "Silver Chariot",
+        "deskripsi": "Desainnya dibuat sebagai kombinasi robot dengan baju besi Eropa. Ini adalah robot humanoid yang agak tipis. Biasanya dibalut dengan armor plat berat berwarna perak di sekujur tubuhnya, sehingga membuatnya terlihat lebih besar. Baju besi ini juga memiliki bantalan bahu dan bantalan siku berduri."
+    },
+    {
+        "index": 5,
+        "img": "https://static.jojowiki.com/images/thumb/c/c2/latest/20211009204040/The_Fool_Appearance.png/200px-The_Fool_Appearance.png",
+        "jawaban": "The Fool",
+        "deskripsi": "Tidak memiliki manifestasi psikis yang sebenarnya, melainkan mengambil wujudnya dengan memanipulasi partikel pasir dan debu di lingkungan, dan dengan demikian, ini adalah salah satu dari sedikit Stand yang benar-benar terlihat oleh semua orang, tidak hanya oleh pengguna Stand. Untuk semua maksud dan tujuan, ia hanya terikat pada pasir, dan merupakan konstruksi dari pasir dan tanah. Namun karena dikendalikan oleh Iggy, ia dapat mengambil beberapa bentuk berbeda, tergantung keinginan Iggy."
+    },
+    {
+        "index": 6,
+        "img": "https://static.jojowiki.com/images/thumb/2/21/latest/20210611203053/The_World_Appearance.png/150px-The_World_Appearance.png",
+        "jawaban": "The World",
+        "deskripsi": "Memiliki penampilan humanoid yang tinggi dan berotot dengan kemiripan yang kuat dengan DIO sendiri dalam hal bentuk tubuh dan pakaian. Ia memakai topi baja yang menutupi wajahnya hingga ke bawah hidungnya, miring dengan sudut curam dari pangkal dahi ke puncak yang terletak di atas bagian belakang kepalanya, meninggalkan wajah segitiga terbalik terlihat di depan, demikian pula ke Mahkota Merah Mesir Hilir."
+    },
+    {
+        "index": 7,
+        "img": "https://static.jojowiki.com/images/thumb/6/6d/latest/20210710194358/Giant_Fly_Appearane.png/240px-Giant_Fly_Appearane.png",
+        "jawaban": "Tower of Gray",
+        "deskripsi": "Muncul sebagai besar, gelap kumbang rusa tentang ukuran tangan seseorang dengan pola rumit pada cangkangnya. Rahang sekunder yang tersembunyi, bergigi, dapat keluar dari mulutnya. Meskipun memiliki bentuk kumbang yang umum, ia juga memiliki gigi di mulutnya."
+    },
+    {
+        "index": 8,
+        "img": "https://static.jojowiki.com/images/thumb/0/0d/latest/20221008022346/Dark_Blue_Moon_Appearance.png/210px-Dark_Blue_Moon_Appearance.png",
+        "jawaban": "Dark Blue Moon",
+        "deskripsi": "Stand humanoid dengan fitur akuatik. Ini memanifestasikan dirinya sebagai semacam entitas seperti merfolk dengan kepala datar, empat mata, sirip punggung besar yang melapisi sebagian besar punggungnya, sirip tambahan di kakinya, dan tangan dan kaki berselaput. Bentuknya dibuat sambil memikirkan kombinasi kekuatan vital dan bahan mineral."
+    },
+    {
+        "index": 9,
+        "img": "https://static.jojowiki.com/images/thumb/b/ba/latest/20230206194005/Strength_Infobox_Anime.png/250px-Strength_Infobox_Anime.png",
+        "jawaban": "Strength",
+        "deskripsi": "Stand Terwujud yang terlihat seperti kapal barang besar. Karena terikat pada perahu yang jauh lebih kecil, ia bahkan dapat dilihat oleh pengguna non-Stand. Bagian luar kapal tampak compang-camping dan usang dengan berbagai derek & derek yang mengotori ruang kargo dan luka besar di haluan, yang terlihat seperti mulut. Ia juga menampilkan anatomi kapal kargo standar, meskipun berlebihan, termasuk corong, tiang kapal, akomodasi, dek, dan jangkar. Di sisinya, tertulis frasa BIG DADD (mungkin 'Big Daddy' tidak jelas), kemungkinan besar merupakan nama pelayaran kapal barang tersebut. Peralatan di dalam jembatannya tercatat dalam kondisi baik, meski tampak ditinggalkan."
     }
 ]
